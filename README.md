@@ -1,9 +1,8 @@
 # Traffic Sign Classification Using CNN
+Using Convolutional Neural Networks (CNNs) to Classify Traffic Signs with GTSRB Dataset.
 ## Dataset Download:
-GTSRB (German Traffic Sign Recognition Benchmark)
+GTSRB (German Traffic Sign Recognition Benchmark).
 - Download here: https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
-
-- Place the unzipped dataset directory inside the data directory.
 
 ## Use GUI:
 ``` bash
